@@ -2,6 +2,12 @@
 date: 2023-06-27T10:18:23-06:00
 title: My (Ongoing) Thoughts on ChatGPT
 slug: chatgpt
+resources:
+- name: thumb
+  src: chatgpt.svg
+  params:
+    alt: Looping animation of the ChatGPT logo being continuously deconstructed and redrawn.
+    loopSeconds: 3
 projects:
 series:
 tags:
