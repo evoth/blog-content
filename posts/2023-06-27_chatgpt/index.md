@@ -17,18 +17,18 @@ publishDate:
 
 ## June 27, 2023
 
-I've just started writing material for this website{{< sidenote >}}It was [this article](/posts/2023-06-27_projects-intro), if you were wondering{{< /sidenote >}}, and to be honest I'm writing in a more formal style than I would usually write. Then I realized that it almost sounds like something ChatGPT would write. So I thought I would start a log of my current thoughts on ChatGPT; not an all-encompassing dissertation on the matter or anything, simply my current thoughts and how (if at all) I currently use it.
+I've just started writing material for this website{{< sidenote >}}It was [this article](/posts/2023-06-27_projects-intro), if you were wondering{{< /sidenote >}}, and I think I've been writing in a more formal style than I would usually write. Then I realized that it almost sounds like something ChatGPT would write. So I thought I would start a log of my current thoughts on ChatGPT; not a comprehensive exploration of the topic, but simply my current thoughts and how (if at all) I currently use it.
 
 ### Current Usage
 
 {{< todo >}}Add ChatGPT stats (interactive chart shortcode??){{< /todo >}}
 As of today, here's a chart of every message I've exchanged with ChatGPT ({{< todo >}}(Sidenote?) Link to a gist of the code I used or something (code snippets section??){{< /todo >}}):
 
-As you can see, {{< todo >}}say something about data{{< /todo >}}. Up to this point, I've really only used ChatGPT as a novelty, or at most a lazier version of Google search. In this way, as many people on [r/ChatGPT](https://www.reddit.com/r/ChatGPT) will tell you, I'm not using it to its fullest potential, and worse, I'm falling behind. So, if ChatGPT is so game-changing, why am I not using it?
+As you can see, {{< todo >}}say something about data{{< /todo >}}. Up to this point, I've really only used ChatGPT as a novelty, or at most a lazier version of Google search. In this way, I'm not using it to its fullest potential, and worse, I could be falling behind{{< sidenote >}}At least some of the anecdotes on [r/ChatGPT](https://www.reddit.com/r/ChatGPT) are to be believed{{< /sidenote >}}. So, if ChatGPT is so game-changing, why am I not using it?
 
 ### Reluctance, "Purity", and Technology
 
-Honestly, a large part of it is because I'm scared. I know how big of a deal generative AI is, and I know that it will likely change the way we think about language, creativity, and communication itself.
+A large part of it is because I'm scared. Generative AI is likely the most pivotal advancement in artificial intelligence thus far, and I know that it will likely change the way we think about language, creativity, and communication itself.
 
 However, it feels *comfortable* to pretend that it might as well not exist, to tell myself that I can function as an employee, creator, and human living in society without the aid of a word generating machine. It feels *purer* somehow to say no, to tell myself that by abstaining I'm preventing myself from developing an inevitable dependence on something to which I can export my thinking, creativity, and whatever other intellectual chores that were previously responsibilities only I could fulfill as someone with a uniquely human mind.
 
