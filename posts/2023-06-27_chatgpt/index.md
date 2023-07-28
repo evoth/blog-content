@@ -4,10 +4,15 @@ title: My (Ongoing) Thoughts on ChatGPT
 slug: chatgpt
 resources:
 - name: thumb
-  src: chatgpt.svg
+  src: chatgpt-thumb.svg
   params:
     alt: Looping animation of the ChatGPT logo being continuously deconstructed and redrawn.
     loopSeconds: 3
+- name: hero
+  src: chatgpt-hero.svg
+  params:
+    alt: Looping animation of the ChatGPT logo sending pulses outwards through a network of lines.
+    loopSeconds: 5
 projects:
 series:
 tags:
