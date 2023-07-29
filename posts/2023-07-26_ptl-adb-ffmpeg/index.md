@@ -1,9 +1,11 @@
 ---
 date: 2023-07-26T10:04:44-06:00
-title: Ptl Adb Ffmpeg
+title: Automatic Time-Lapses with ADB and FFmpeg
+summary: Programmatically creating time-lapses with an old Android phone and Python
 slug: ptl-adb-ffmpeg
 resources:
 projects:
+  - ptl
 series:
 tags:
 draft: true

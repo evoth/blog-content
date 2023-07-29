@@ -1,6 +1,7 @@
 ---
 date: 2023-06-27T10:18:23-06:00
 title: My (Ongoing) Thoughts on ChatGPT
+summary: A log of my thoughts on ChatGPT and how I use it
 slug: chatgpt
 resources:
 - name: thumb
