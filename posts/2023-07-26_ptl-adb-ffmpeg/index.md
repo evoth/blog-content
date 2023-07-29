@@ -24,4 +24,14 @@ Since I had an old Android phone that could be dedicated to the project, I chose
 
 {{< todo >}}ADB concept{{< /todo >}}
 
+### Triggering the shutter
+
+### Transferring frames
+
+### Code
+
+### Issues
+
 ## Combining Frames
+
+
