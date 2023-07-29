@@ -33,7 +33,7 @@ As you can see, {{< todo >}}say something about data{{< /todo >}}. Up to this po
 
 ### Reluctance, "Purity", and Technology
 
-A large part of it is because I'm scared. Generative AI is likely the most pivotal advancement in artificial intelligence thus far, and I know that it will likely change the way we think about language, creativity, and communication itself.
+A large part of it is because I'm scared. Generative AI is one of the most pivotal advancements in artificial intelligence thus far, and I know that it will likely change the way we think about language, creativity, and communication itself.
 
 However, it feels *comfortable* to pretend that it might as well not exist, to tell myself that I can function as an employee, creator, and human living in society without the aid of a word generating machine. It feels *purer* somehow to say no, to tell myself that by abstaining I'm preventing myself from developing an inevitable dependence on something to which I can export my thinking, creativity, and whatever other intellectual chores that were previously responsibilities only I could fulfill as someone with a uniquely human mind.
 
