@@ -7,6 +7,8 @@ resources:
 projects:
   - ptl
 series:
+concepts:
+  - adb
 tags:
 draft: true
 publishDate:
@@ -24,7 +26,7 @@ A time-lapse is simply a video that's played back at a faster frame rate than th
 
 Since I had an old Android phone that could be dedicated to the project, I chose to use its camera to capture the frames. In order to do so, I needed a way to programmatically trigger the phone's shutter and transfer the photos to the computer. This brings us to ADB.
 
-{{< todo >}}ADB concept{{< /todo >}}
+{{< concept "adb" >}}
 
 ### Triggering the shutter
 
