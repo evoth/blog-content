@@ -23,14 +23,14 @@ publishDate:
 
 ## June 27, 2023
 
-I've just started writing material for this website{{< sidenote >}}It was [this article](/posts/2023-06-27_projects-intro), if you were wondering{{< /sidenote >}}, and I think I've been writing in a more formal style than I would usually write. Then I realized that it almost sounds like something ChatGPT would write. So I thought I would start a log of my current thoughts on ChatGPT; not a comprehensive exploration of the topic, but simply my current thoughts and how (if at all) I currently use it.
+I've just started writing material for this website{{< sidenote "(" ")" "" "." >}}it was [this article](/posts/2023-06-27_projects-intro), if you were curious{{< /sidenote >}}, and I think I've been writing in a more formal style than I would usually write. Then I realized that it almost sounds like something ChatGPT would write. So I thought I would start a log of my current thoughts on ChatGPT; not a comprehensive exploration of the topic, but simply my current thoughts and how (if at all) I currently use it.
 
 ### Current Usage
 
 {{< todo >}}Add ChatGPT stats (interactive chart shortcode??){{< /todo >}}
 As of today, here's a chart of every message I've exchanged with ChatGPT ({{< todo >}}(Sidenote?) Link to a gist of the code I used or something (code snippets section??){{< /todo >}}):
 
-As you can see, {{< todo >}}say something about data{{< /todo >}}. Up to this point, I've really only used ChatGPT as a novelty, or at most a lazier version of Google search. In this way, I'm not using it to its fullest potential, and worse, I could be falling behind{{< sidenote >}}At least some of the anecdotes on [r/ChatGPT](https://www.reddit.com/r/ChatGPT) are to be believed{{< /sidenote >}}. So, if ChatGPT is so game-changing, why am I not using it?
+As you can see, {{< todo >}}say something about data{{< /todo >}}. Up to this point, I've really only used ChatGPT as a novelty, or at most a lazier version of Google search. In this way, I'm not using it to its fullest potential, and worse, I could be falling behind. So, if ChatGPT is so game-changing, why have I not been using it?
 
 ### Reluctance, "Purity", and Technology
 
