@@ -23,7 +23,7 @@ publishDate:
 
 ## June 27, 2023
 
-I've just started writing material for this website{{< sidenote "(" ")" "" "." >}}it was [this article](/posts/2023-06-27_projects-intro), if you were curious{{< /sidenote >}}, and I think I've been writing in a more formal style than I would usually write. Then I realized that it almost sounds like something ChatGPT would write. So I thought I would start a log of my current thoughts on ChatGPT; not a comprehensive exploration of the topic, but simply my current thoughts and how (if at all) I currently use it.
+I've just started writing material for this website{{< sidenote "(" ")" "" "." >}}it was [this post](/posts/2023-06-27_projects-intro), if you were curious{{< /sidenote >}}, and I noticed that for some reason I've been writing in a more formal style than usual. Then I realized that it almost sounds like something ChatGPT would write. So, I thought I would start a log of my current thoughts on ChatGPT; not a comprehensive exploration of the topic, but simply my current thoughts and how (if at all) I currently use it.
 
 ### Current Usage
 
@@ -40,7 +40,7 @@ However, it feels *comfortable* to pretend that it might as well not exist, to t
 
 But, on the other hand, this reluctance to forfeit some form of "purity" is naive because we already do this every day in the form of technology. That's what it *does*: it augments our natural abilities by allowing us to take shortcuts, but in the process we lose control and agency.
 
-If I want to learn something new today, I can head over to YouTube, or Wikipedia, or whatever, and I will likely find knowledge that is useful to me in that moment. But in order to be immediately useful, it has to be surface level, pre-digested. I'm trading the time it would have taken to gather that information myself for control over the ability to make my own interpretation. The same could be said for ChatGPT, social media, and the news, but the same could also be said for books, manufactured products, or even going to a restaurant.
+If I want to learn something new today, I can head over to somewhere like YouTube or Wikipedia, and I will likely find knowledge that is useful to me in that moment. But in order to be immediately useful, it has to be surface level, pre-digested. I'm trading the time it would have taken to gather that information myself for control over the ability to make my own interpretation. The same could be said for ChatGPT, social media, and the news, but the same could also be said for books, manufactured products, or even going to a restaurant.
 
 In short, this is just another chapter in the cycle of technological advancement:
 1. Breakthrough
