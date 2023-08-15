@@ -22,4 +22,4 @@ Because of this, the result of programming is not just the production of code, b
 
 My goal with this series is threefold. First, I wish to display my approach to problem solving, so that the reader may gain insight into how I confront and overcome challenges on the way to realizing a goal{{< sidenote "(" ")" >}}in other words, a portfolio of sorts{{< /sidenote >}}. Second, by documenting my problem solving process, I will be able to learn from my past endeavors, and perhaps you can too. Third, I think I've worked on some cool things and want to share them with the world!{{< sidenote "(" ")" >}}A secret fourth reason: I want to start writing things, and this website is a great way to do that!{{< /sidenote >}}
 
-The [Projects series](/series/projects) will discuss various [projects](/projects) that I've built over the years, with one or more posts being dedicated to each project.{{< todo >}}Navigation tips?{{< /todo >}}
+The [Projects and Problem Solving series](/series/projects) will discuss various [projects](/projects) that I've built over the years, with one or more posts being dedicated to each project.{{< todo >}}Navigation tips?{{< /todo >}}
