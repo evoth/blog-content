@@ -31,9 +31,62 @@ Since I had an old Android phone that could be dedicated to the project, I chose
 
 ### Triggering the shutter
 
+With the Android phone turned on and open to a camera app, the shutter could be triggered using one of the volume buttons. So, I first tried simulating this action with ADB by running the following on the computer connected to the phone:
+{{< todo >}}Check all this for accuracy and formatting as I'm on a plane right now working with limited resources{{< /todo >}}
+
+```
+adb shell input keyevent KEYCODE_VOLUME_UP
+```
+
+The `adb shell` part means that the command is run on the Android device (client), allowing us to control it over USB. The rest of the command, `input keyevent KEYCODE_VOLUME_UP`, does exactly what it sounds like, triggering a "volume up" key event. However, the command was too specific, since it only adjusted the volume instead of triggering the camera shutter. It turns out that there's a separate key code for this exact purpose:
+
+```
+adb shell input keyevent KEYCODE_CAMERA
+```
+
+Now, I could take frames with the camera, but needed to figure out how to transfer them onto the computer.
+
 ### Transferring frames
 
+To copy the frames from the camera app (Free Camera) directory on the phone to a directory named `temp` on the commuter, I used the `adb pull` command:
+
+```
+adb pull /storage/emulated/legacy/DCIM/FreeCamera/ temp
+```
+
+And to delete a frame from the phone once it had been copied, I once again used the `adb shell` command, this time with the common `rm` utility:
+
+```
+adb shell rm /storage/emulated/legacy/DCIM/FreeCamera/<FILENAME>
+```
+
 ### Code
+
+Now, I was ready to make a simple Python proof of concept. As this was my very first time programming in Python, I would say my original implementation was *questionable*. Regardless, I'll walk through my original code, then discuss some of the issues with it, including what I would do differently today.
+
+Here's the first version of the test script that implements the commands from above:
+
+```python
+from subprocess import call
+import time
+from datetime import datetime
+import shutil
+import os
+
+storage_path = '/home/ptl/PTL/'
+
+call(['adb','shell','rm','/storage/emulated/legacy/DCIM/FreeCamera/*'])
+for i in range(20):
+	time_debug = time.time()	
+	call(['adb','shell','input','keyevent + CAMERA'])
+	photo_time = int(time.time())	
+	#time.sleep(0.7)
+	call(['adb','pull','/storage/emulated/legacy/DCIM/FreeCamera/',storage_path+'temp'])
+	for filename in os.listdir(storage_path+'temp/FreeCamera/'):		
+		call(['adb','shell','rm','/storage/emulated/legacy/DCIM/FreeCamera/'+filename])		
+		shutil.move(storage_path+'temp/FreeCamera/'+filename, storage_path+'Frames/'+str(photo_time)+'.jpg')
+	print(time.time()-time_debug)
+```
 
 ### Issues
 
