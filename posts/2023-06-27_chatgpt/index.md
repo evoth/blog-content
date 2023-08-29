@@ -8,12 +8,12 @@ resources:
   src: chatgpt-thumb.svg
   params:
     alt: Looping animation of the ChatGPT logo being continuously deconstructed and redrawn.
-    loopSeconds: 3
+    loopSeconds: 3.0
 - name: hero
   src: chatgpt-hero.svg
   params:
     alt: Looping animation of the ChatGPT logo sending pulses outwards through a network of lines.
-    loopSeconds: 5
+    loopSeconds: 5.0
 projects:
 series:
 tags:
