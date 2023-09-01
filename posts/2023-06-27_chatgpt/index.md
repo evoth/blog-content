@@ -25,7 +25,7 @@ publishDate:
 
 ## June 27, 2023
 
-I've just started writing material for this website{{< sidenote "(" ")" "" "." >}}it was [this post](/posts/2023-06-27_projects-intro), if you were curious{{< /sidenote >}}, and I noticed that for some reason I've been writing in a more formal style than usual. Then I realized that it almost sounds like something ChatGPT would write. So, I thought I would start a log of my current thoughts on ChatGPT; not a comprehensive exploration of the topic, but simply my current thoughts and how (if at all) I currently use it.
+{{< todo >}}tenses{{< /todo >}}I've just started writing material for this website{{< sidenote "(" ")" "" "." >}}it was [this post](/posts/2023-06-27_projects-intro), if you were curious{{< /sidenote >}}, and I noticed that for some reason I've been writing in a more formal style than usual. Then I realized that it almost sounds like something ChatGPT would write. So, I thought I would start a log of my current thoughts on ChatGPT; not a comprehensive exploration of the topic, but simply my current thoughts and how (if at all) I currently use it.
 
 ### Current Usage
 

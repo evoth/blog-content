@@ -1,6 +1,6 @@
 ---
 date: 2023-06-27T09:04:53-06:00
-title: Projects Series Introduction
+title: Projects Series Intro
 summary:
 slug: projects-intro
 projects:
