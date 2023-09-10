@@ -4,6 +4,16 @@ title: Automatic Time-Lapses with ADB and FFmpeg
 summary: Programmatically creating time-lapses with Python and an old Android phone
 slug: ptl-adb-ffmpeg
 resources:
+- name: thumb
+  src: ptl-adb-ffmpeg-thumb.svg
+  params:
+    alt:
+    loopSeconds: 2.0
+- name: hero
+  src: ptl-adb-ffmpeg-hero.svg
+  params:
+    alt:
+    loopSeconds: 2.0
 projects:
 - ptl
 series:

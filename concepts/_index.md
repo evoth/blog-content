@@ -1,4 +1,4 @@
 ---
 title: Concepts
-childrenListTitle: Posts about %s
+childrenListTitle: Posts with %s
 ---
