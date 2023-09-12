@@ -3,6 +3,19 @@ date: 2023-06-27T09:04:53-06:00
 title: Projects Series Intro
 summary:
 slug: projects-intro
+resources:
+- name: thumb
+  src: projects-intro-thumb.svg
+  params:
+    alt: Looping animation of Rubik's cubes being constructed. Bigger and bigger cubes are built in a recursive fashion.
+    loopSeconds: 4.0
+    loopOffset: -0.01
+- name: hero
+  src: projects-intro-hero.svg
+  params:
+    alt: Looping animation of Rubik's cubes being constructed. Bigger and bigger cubes are built in a recursive fashion.
+    loopSeconds: 4.0
+    loopOffset: -0.01
 projects:
 series:
 - projects

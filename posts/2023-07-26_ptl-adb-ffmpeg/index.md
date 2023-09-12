@@ -7,12 +7,12 @@ resources:
 - name: thumb
   src: ptl-adb-ffmpeg-thumb.svg
   params:
-    alt:
+    alt: Looping animation of time-lapse frames being transferred to a computer.
     loopSeconds: 2.0
 - name: hero
   src: ptl-adb-ffmpeg-hero.svg
   params:
-    alt:
+    alt: Looping animation of time-lapse frames being transferred to a computer.
     loopSeconds: 2.0
 projects:
 - ptl
