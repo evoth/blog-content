@@ -10,17 +10,11 @@ resources:
     alt: Looping animation of Rubik's cubes being constructed. Bigger and bigger cubes are built in a recursive fashion.
     loopSeconds: 4.0
     loopOffset: -0.01
-- name: hero
-  src: projects-intro-hero.svg
-  params:
-    alt: Looping animation of Rubik's cubes being constructed. Bigger and bigger cubes are built in a recursive fashion.
-    loopSeconds: 4.0
-    loopOffset: -0.01
 projects:
 series:
 - projects
 tags:
-draft: true
+draft: false
 publishDate:
 ---
 

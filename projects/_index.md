@@ -6,4 +6,7 @@ lists:
 - /projects:
     title: Project pages
 childrenListTitle: Posts about %s
+childrenLists:
+- /projects:
+    title: Other project pages
 ---
