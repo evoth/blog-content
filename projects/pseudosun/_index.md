@@ -7,4 +7,8 @@ resources:
     src: pseudosun-thumb.svg
     params:
       alt: Infinity symbol on a background split between pale blue and green.
+  - name: hero
+    src: pseudosun-hero.svg
+    params:
+      alt: Infinity symbol on a background split between pale blue and green.
 ---

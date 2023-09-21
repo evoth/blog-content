@@ -7,4 +7,8 @@ resources:
     src: midi-vision-thumb.svg
     params:
       alt: Glowing aquamarine-colored zigzag shape on a black background.
+  - name: hero
+    src: midi-vision-hero.svg
+    params:
+      alt: Glowing aquamarine-colored zigzag shape on a black background.
 ---

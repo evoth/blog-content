@@ -7,4 +7,8 @@ resources:
     src: schema-thumb.svg
     params:
       alt: White letter "S" on background divided into four quadrants with different shades of blue.
+  - name: hero
+    src: schema-hero.svg
+    params:
+      alt: White letter "S" on background divided into four quadrants with different shades of blue.
 ---

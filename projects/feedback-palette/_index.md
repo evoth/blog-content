@@ -7,4 +7,8 @@ resources:
     src: feedback-palette-thumb.svg
     params:
       alt: Abstract palette, dividing image into various shades of pink.
+  - name: hero
+    src: feedback-palette-hero.svg
+    params:
+      alt: Abstract palette, dividing image into various shades of pink.
 ---

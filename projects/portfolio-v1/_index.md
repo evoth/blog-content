@@ -7,4 +7,8 @@ resources:
     src: portfolio-v1-thumb.svg
     params:
       alt: The letters "EV" on a turquoise gradient background.
+  - name: hero
+    src: portfolio-v1-hero.svg
+    params:
+      alt: The letters "EV" on a turquoise gradient background.
 ---
