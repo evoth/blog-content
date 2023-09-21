@@ -8,4 +8,5 @@ childrenListTitle: Posts about %s
 childrenLists:
 - /projects:
     title: Other project pages
+    count: 9
 ---
