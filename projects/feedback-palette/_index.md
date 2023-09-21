@@ -11,4 +11,9 @@ resources:
     src: feedback-palette-hero.svg
     params:
       alt: Abstract palette, dividing image into various shades of pink.
+links:
+    - title: GitHub Repository
+      url: https://github.com/evoth/feedback-palette
+    - title: Web App
+      url: https://palette.ethanvoth.com
 ---

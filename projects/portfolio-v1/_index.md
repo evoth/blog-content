@@ -11,4 +11,7 @@ resources:
     src: portfolio-v1-hero.svg
     params:
       alt: The letters "EV" on a turquoise gradient background.
+links:
+    - title: GitHub Repository
+      url: https://github.com/evoth/portfolio-site
 ---

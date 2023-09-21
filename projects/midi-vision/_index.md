@@ -11,4 +11,9 @@ resources:
     src: midi-vision-hero.svg
     params:
       alt: Glowing aquamarine-colored zigzag shape on a black background.
+links:
+    - title: GitHub Repository
+      url: https://github.com/evoth/midi-vision
+    - title: Web App
+      url: https://midi.ethanvoth.com
 ---

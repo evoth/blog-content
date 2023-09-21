@@ -11,4 +11,11 @@ resources:
     src: schema-hero.svg
     params:
       alt: White letter "S" on background divided into four quadrants with different shades of blue.
+links:
+    - title: GitHub Repository
+      url: https://github.com/evoth/schema
+    - title: Google Play Store
+      url: https://play.google.com/store/apps/details?id=com.ethanvoth.schema
+    - title: Web App
+      url: https://schema.ethanvoth.com/
 ---

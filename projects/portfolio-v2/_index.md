@@ -11,4 +11,11 @@ resources:
     src: portfolio-v2-hero.svg
     params:
       alt: The letters "EV" on a dark gray background.
+links:
+    - title: GitHub Repository
+      url: https://github.com/evoth/blog
+    - title: Blog Content Submodule
+      url: https://github.com/evoth/blog-content
+    - title: Website
+      url: https://ethanvoth.com
 ---

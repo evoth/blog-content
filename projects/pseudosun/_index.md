@@ -11,4 +11,9 @@ resources:
     src: pseudosun-hero.svg
     params:
       alt: Infinity symbol on a background split between pale blue and green.
+links:
+    - title: GitHub Repository
+      url: https://github.com/evoth/pseudosun
+    - title: Web App
+      url: https://pseudosun.ethanvoth.com/
 ---

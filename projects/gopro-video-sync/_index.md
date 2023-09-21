@@ -11,4 +11,9 @@ resources:
     src: gopro-video-sync-hero.svg
     params:
       alt: Dramatic vector art of a GoPro combined with a clapboard.
+links:
+    - title: GitHub Repository
+      url: https://github.com/evoth/gopro-video-sync
+    - title: PyPI Package
+      url: https://pypi.org/project/gopro-video-sync/
 ---
