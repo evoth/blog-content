@@ -4,6 +4,7 @@ summary: Personal projects from the last couple years which cover a variety of t
 lists:
 - /projects:
     title: Project pages
+    count: 9
 childrenListTitle: Posts about %s
 childrenLists:
 - /projects:
