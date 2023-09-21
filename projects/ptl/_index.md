@@ -1,6 +1,7 @@
 ---
 title: Perpetual Timelapse
 summary: "An automatic time-lapse creation and posting system (my first Python project)"
+weight: 50
 resources:
   - name: thumb
     src: ptl-thumb.svg
