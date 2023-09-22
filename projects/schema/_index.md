@@ -6,7 +6,7 @@ resources:
   - name: thumb
     src: schema-thumb.svg
     params:
-      alt: White letter "S" on background divided into four quadrants with different shades of blue.
+      alt: White letter "S" on background divided into four quadrants in different shades of blue.
 thumbAsHero: true
 links:
     - title: GitHub Repository

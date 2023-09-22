@@ -6,7 +6,7 @@ resources:
   - name: thumb
     src: pseudosun-thumb.svg
     params:
-      alt: Infinity symbol on a background split between pale blue and green.
+      alt: White infinity symbol on a background split between pale blue and green.
 thumbAsHero: true
 links:
     - title: GitHub Repository

@@ -6,7 +6,7 @@ resources:
   - name: thumb
     src: gopro-video-sync-thumb.svg
     params:
-      alt: Dramatic vector art of a GoPro combined with a clapboard.
+      alt: GoPro with clapper stick on top, alluding to a clapperboard.
 thumbAsHero: true
 links:
     - title: GitHub Repository

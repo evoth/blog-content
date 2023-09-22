@@ -6,7 +6,5 @@ resources:
 - name: thumb
   src: projects-thumb.svg
   params:
-    alt: Looping animation of Rubik's cubes being constructed. Bigger and bigger cubes are built in a recursive fashion.
-    loopSeconds: 4.0
-    loopOffset: -0.01
+    alt: Scrambled Rubik's cube.
 ---

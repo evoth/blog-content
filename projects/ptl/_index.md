@@ -6,7 +6,7 @@ resources:
   - name: thumb
     src: ptl-thumb.svg
     params:
-      alt: Looping animation of arrows spinning in a circle, enclosing two semicircles which represent night and day.
+      alt: Circle split between sun and moon/stars, encircled by cyclic arrows.
       loopSeconds: 3.0
 thumbAsHero: true
 links:
