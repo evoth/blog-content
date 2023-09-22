@@ -7,10 +7,7 @@ resources:
     src: gopro-video-sync-thumb.svg
     params:
       alt: Dramatic vector art of a GoPro combined with a clapboard.
-  - name: hero
-    src: gopro-video-sync-hero.svg
-    params:
-      alt: Dramatic vector art of a GoPro combined with a clapboard.
+thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/gopro-video-sync

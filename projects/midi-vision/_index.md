@@ -7,10 +7,7 @@ resources:
     src: midi-vision-thumb.svg
     params:
       alt: Glowing aquamarine-colored zigzag shape on a black background.
-  - name: hero
-    src: midi-vision-hero.svg
-    params:
-      alt: Glowing aquamarine-colored zigzag shape on a black background.
+thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/midi-vision

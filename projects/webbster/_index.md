@@ -7,10 +7,7 @@ resources:
     src: webbster-thumb.svg
     params:
       alt: Artistic vector interpretation of the Southern Ring Nebula, exploding outwards from a central star.
-  - name: hero
-    src: webbster-hero.svg
-    params:
-      alt: Artistic vector interpretation of the Southern Ring Nebula, exploding outwards from a central star.
+thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/webbster

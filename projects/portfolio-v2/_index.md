@@ -7,10 +7,7 @@ resources:
     src: portfolio-v2-thumb.svg
     params:
       alt: The letters "EV" on a dark gray background.
-  - name: hero
-    src: portfolio-v2-hero.svg
-    params:
-      alt: The letters "EV" on a dark gray background.
+thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/blog

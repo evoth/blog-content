@@ -8,11 +8,7 @@ resources:
     params:
       alt: Looping animation of arrows spinning in a circle, enclosing two semicircles which represent night and day.
       loopSeconds: 3.0
-  - name: hero
-    src: ptl-hero.svg
-    params:
-      alt: Looping animation of arrows spinning in a circle, enclosing two semicircles which represent night and day.
-      loopSeconds: 3.0
+thumbAsHero: true
 links:
     - title: YouTube Channel
       url: https://www.youtube.com/@perpetualtimelapse9938

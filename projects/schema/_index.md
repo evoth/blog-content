@@ -7,10 +7,7 @@ resources:
     src: schema-thumb.svg
     params:
       alt: White letter "S" on background divided into four quadrants with different shades of blue.
-  - name: hero
-    src: schema-hero.svg
-    params:
-      alt: White letter "S" on background divided into four quadrants with different shades of blue.
+thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/schema

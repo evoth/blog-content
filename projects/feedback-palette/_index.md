@@ -7,10 +7,7 @@ resources:
     src: feedback-palette-thumb.svg
     params:
       alt: Abstract palette, dividing image into various shades of pink.
-  - name: hero
-    src: feedback-palette-hero.svg
-    params:
-      alt: Abstract palette, dividing image into various shades of pink.
+thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/feedback-palette
