@@ -5,15 +5,9 @@ summary: A log of my thoughts on ChatGPT and how I use it
 slug: chatgpt
 resources:
 - name: thumb
-  src: chatgpt-thumb.svg
+  src:
   params:
-    alt: Looping animation of the ChatGPT logo being continuously deconstructed and redrawn.
-    loopSeconds: 3.0
-- name: hero
-  src: chatgpt-hero.svg
-  params:
-    alt: Looping animation of the ChatGPT logo sending pulses outwards through a network of lines.
-    loopSeconds: 5.0
+    alt:
 projects:
 series:
 tags:

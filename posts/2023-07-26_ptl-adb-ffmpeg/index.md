@@ -5,10 +5,9 @@ summary: Programmatically creating time-lapses with Python and an old Android ph
 slug: ptl-adb-ffmpeg
 resources:
 - name: thumb
-  src: ptl-adb-ffmpeg-thumb.svg
+  src:
   params:
-    alt: Looping animation of time-lapse frames being transferred to a computer.
-    loopSeconds: 2.0
+    alt:
 projects:
 - ptl
 series:
