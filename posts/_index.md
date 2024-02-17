@@ -8,4 +8,7 @@ lists:
 - /series:
 - /tags:
 - /concepts:
+childrenLists:
+- /posts:
+    title: Other posts
 ---

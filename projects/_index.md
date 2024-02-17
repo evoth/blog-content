@@ -4,4 +4,8 @@ summary: Personal projects from the last couple years which cover a variety of t
 lists:
 - /projects:
     title: Project pages
+childrenListTitle: Posts about %s
+childrenLists:
+- /projects:
+    title: Other project pages
 ---
