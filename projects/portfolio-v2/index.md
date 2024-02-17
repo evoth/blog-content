@@ -15,6 +15,12 @@ links:
       url: https://github.com/evoth/blog-content
     - title: Website
       url: https://ethanvoth.com
+languages:
+    - HTML
+    - TypeScript
+tags:
+    - Hugo SSG
+    - Tailwind CSS
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/blog):

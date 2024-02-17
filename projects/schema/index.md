@@ -15,6 +15,11 @@ links:
       url: https://play.google.com/store/apps/details?id=com.ethanvoth.schema
     - title: Web App
       url: https://schema.ethanvoth.com/
+languages:
+    - Dart
+tags:
+    - Flutter
+    - Firebase
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/schema):

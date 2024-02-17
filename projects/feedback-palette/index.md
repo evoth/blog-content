@@ -13,6 +13,12 @@ links:
       url: https://github.com/evoth/feedback-palette
     - title: Web App
       url: https://palette.ethanvoth.com
+languages:
+    - JavaScript
+    - HTML
+    - SCSS
+tags:
+    - HTML Canvas
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/feedback-palette):

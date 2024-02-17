@@ -13,6 +13,11 @@ links:
       url: https://github.com/evoth/pseudosun
     - title: Web App
       url: https://pseudosun.ethanvoth.com/
+languages:
+    - JavaScript
+tags:
+    - Three.js
+    - Terrain generation
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/pseudosun):

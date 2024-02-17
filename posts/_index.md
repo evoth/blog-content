@@ -6,6 +6,7 @@ lists:
 - /posts:
     title: All posts
 - /series:
+- /languages:
 - /tags:
 - /concepts:
 childrenLists:

@@ -12,6 +12,11 @@ thumbAsHero: true
 links:
     - title: YouTube Channel
       url: https://www.youtube.com/@perpetualtimelapse9938
+languages:
+    - Python
+tags:
+    - YouTube API
+    - GoPro WiFi API
 ---
 
 Perpetual Timelapse{{< sidenote "(" ")" >}}named before I knew that "time-lapse" with a hyphen is more correct{{< /sidenote >}} wasn't my first big programming project, but it was the first that wasn't bound by the [Scratch](https://scratch.mit.edu/) canvas or the screen of my [calculator](https://www.cemetech.net/downloads/users/Pi_Runner). I started development just before the beginning of 2020, and the resulting system uploaded daily time-lapses to [YouTube](https://www.youtube.com/@perpetualtimelapse9938) on most days from April 9th to June 1st, 2020{{< sidenote "(" ")" >}}the system was also operational and uploading videos privately during development in the preceding months{{< /sidenote >}}. During this time, the system processed and uploaded over 16 hours of video, representing over 660 hours of time-lapse recording. Although the final iteration of the system took longer than expected to develop and presented reliability issues, I gained valuable programming/integration experience and increased confidence in my abilities to tackle complex problems.

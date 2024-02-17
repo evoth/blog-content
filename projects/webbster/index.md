@@ -11,6 +11,12 @@ thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/webbster
+languages:
+    - Python
+tags:
+    - Image processing
+    - JWST
+    - scikit-image
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's selected content from the [GitHub repo](https://github.com/evoth/webbster):
