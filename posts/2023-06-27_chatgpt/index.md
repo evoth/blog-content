@@ -11,8 +11,8 @@ resources:
 projects:
 series:
 tags:
-- Generative AI
-- Technological Advancement
+- generative-ai
+- technological-advancement
 draft: true
 publishDate:
 ---
