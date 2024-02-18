@@ -16,10 +16,10 @@ links:
     - title: Web App
       url: https://schema.ethanvoth.com/
 languages:
-    - Dart
+    - dart
 tags:
-    - Flutter
-    - Firebase
+    - flutter
+    - firebase
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/schema):

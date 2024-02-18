@@ -18,7 +18,8 @@ languages:
     - HTML
     - SCSS
 tags:
-    - HTML Canvas
+    - html-canvas
+    - bulma
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/feedback-palette):

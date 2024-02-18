@@ -14,12 +14,12 @@ links:
     - title: PyPI Package
       url: https://pypi.org/project/gopro-video-sync/
 languages:
-    - Python
+    - python
 tags:
-    - MP4 parsing
-    - GPMF
-    - Signal processing
-    - Sensor data
+    - mp4-parsing
+    - gpmf
+    - signal-processing
+    - sensor-data
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/gopro-video-sync):

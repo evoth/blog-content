@@ -12,12 +12,13 @@ links:
     - title: GitHub Repository
       url: https://github.com/evoth/esp-intervalometer
 languages:
-    - C++
-    - Svelte
+    - cpp
+    - svelte
 tags:
-    - ESP8266
-    - CCAPI
-    - WebSockets
+    - esp8266
+    - embedded-systems
+    - ccapi
+    - websockets
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/esp-intervalometer):

@@ -12,10 +12,10 @@ links:
     - title: GitHub Repository
       url: https://github.com/evoth/webbster
 languages:
-    - Python
+    - python
 tags:
-    - Image processing
-    - JWST
+    - image-processing
+    - jwst
     - scikit-image
 ---
 

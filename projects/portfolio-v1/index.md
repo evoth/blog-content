@@ -14,10 +14,10 @@ links:
     - title: Website
       url: https://v1.ethanvoth.com
 languages:
-    - HTML
-    - SCSS
+    - html
+    - scss
 tags:
-    - Bulma CSS
+    - bulma
 ---
 
 Check back soon for more detailed insight on this project's inspiration, process, and lessons! For now, here's information from the [GitHub repo](https://github.com/evoth/portfolio-site):
