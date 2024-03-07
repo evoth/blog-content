@@ -5,7 +5,7 @@ links:
 resources:
 - name: thumb
   params:
-    alt: Tailwind css logo in white on a sky blue background.
+    alt: Tailwind CSS logo in white on a sky blue background.
   src: tailwind-thumb.svg
 simpleIcon: tailwindcss
 title: Tailwind CSS

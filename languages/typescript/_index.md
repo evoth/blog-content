@@ -5,7 +5,7 @@ links:
 resources:
 - name: thumb
   params:
-    alt: Typescript logo in white on a blue background.
+    alt: TypeScript logo in white on a blue background.
   src: typescript-thumb.svg
 simpleIcon: typescript
 title: TypeScript
