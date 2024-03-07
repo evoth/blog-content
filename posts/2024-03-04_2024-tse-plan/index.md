@@ -1,5 +1,5 @@
 ---
-date: 2024-03-04T20:17:59-05:00
+date: 2024-03-07T05:40:00-05:00
 title: "2024 TSE: The Plan"
 summary:
 slug: 2024-tse-plan
