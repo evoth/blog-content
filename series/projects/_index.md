@@ -7,4 +7,5 @@ resources:
   src: projects-thumb.svg
   params:
     alt: Scrambled Rubik's cube.
+draft: true
 ---

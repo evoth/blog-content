@@ -12,7 +12,7 @@ projects:
 series:
 - projects
 tags:
-draft: false
+draft: true
 publishDate:
 ---
 
