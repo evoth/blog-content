@@ -1,7 +1,7 @@
 ---
-date: 2024-03-07T05:40:00-05:00
+date: 2024-03-19T15:20:00-06:00
 title: "2024 TSE: The Plan"
-summary:
+summary:  Advance arrangements, anticipated astrophotography angles, and admittedly ambitious automation aspirations.
 slug: 2024-tse-plan
 resources:
 - name: thumb
@@ -9,7 +9,6 @@ resources:
   params:
     alt: Illustration of multiple exposure composite of sun during total and partial phases of solar eclipse.
 thumbAsHero: true
-projects:
 series:
 - 2024-tse
 tags:
@@ -60,7 +59,7 @@ In addition to the gear I already have, I recently realized that my college's li
 
 ## Location
 
-Speaking of Dallas, that's wear I plan on being the day of the eclipse.{{< sidenote >}}The duration of totality in Dallas, TX will be about 3 minutes and 30-45 seconds, depending on where in the city you are.{{< /sidenote >}} Since I won't have access to a car for transportation, I just have to hope that Dallas has clear skies (about 50% chance) and that I can get to a suitable viewing location using public transportation and my own two feet. Right now I'm planning on going to Trammel Crow Park, which should be wide open enough not to be overcrowded (hopefully).
+Speaking of Dallas, that's where I plan on being the day of the eclipse.{{< sidenote >}}The duration of totality in Dallas, TX will be about 3 minutes and 30-45 seconds, depending on where in the city you are.{{< /sidenote >}} Since I won't have access to a car for transportation, I just have to hope that Dallas has clear skies (about 50% chance) and that I can get to a suitable viewing location using public transportation and my own two feet. Right now I'm planning on going to Trammel Crow Park, which should be wide open enough not to be overcrowded (hopefully).
 
 ## Eclipse close-up at 250mm
 
@@ -110,6 +109,15 @@ Then, if I want to adjust the sequence or even redo it entirely, I can just make
 
 While this probably sounds overambitious (it almost certainly is), at the time of writing I've made good progress and there's no reason I shouldn't be able to complete it (fingers crossed!). If I do complete it, programming in the above shots should be fairly trivial. If not, I'll scramble to write a custom program to do it like I probably should have done in the first place.
 
+**Update 2024-03-19:**
+
+I just now realized that when originally writing this, I left out a crucial piece of the puzzle: the reason I didn't want to use existing eclipse automation software on a Mac or PC. This was the first option I considered, but I ended up settling on my current plan due to the following reasons:
+1. I simply don't own a computer that I can trust to run reliably for the full duration of the eclipse. My laptop can probably last 3 hours on battery, but I likely won't have access to an outlet for the entire day, and it's way too close to risk it.
+2. Even if I knew it would last, I don't want to be burdened by babysitting a laptop (with physical connections to multiple cameras) for 3 hours. I have no idea how crowded my location will be or what the weather conditions will be, but I can't imagine a scenario in which a laptop doesn't add extra stress to the situation.
+3. I was already intrigued by the customization (of both hardware and software) that the microcontroller approach would allow, and I was further enticed by the challenge that it would bring.
+
+So far, I'm glad I went with this option simply because of the number of new things I've learned and the skills I've gained!
+
 ## Sun and planets at 18mm
 
 Here's a depiction of the image I hope to capture at 18mm{{< sidenote "(" ")" "" "." >}}keep in mind that I'm using a crop sensor camera, which is why 18mm is still relatively tight{{< /sidenote >}}:
@@ -118,9 +126,9 @@ Here's a depiction of the image I hope to capture at 18mm{{< sidenote "(" ")" ""
 
 This image was made using [Stellarium](https://stellarium.org/) and Photoshop, simulating an exposure every 10 minutes for 1.5 hours on either side of totality. The bright dot down and to the right of center is Venus, and similarly Jupiter is in the top left. Both of these should be visible during totality, and Venus may even be visible for some minutes before and afterwards. I could also catch Saturn and/or Mars in the bottom right corner if I frame it right.
 
-A big reason that I want to capture this view is because of the unique chance to capture a comet, [12P/Pons-Brooks](https://en.wikipedia.org/wiki/12P/Pons%E2%80%93Brooks) (purple crosshairs next to Jupiter in the image), which will be making its perihelion passage around the sun in the days following the eclipse. It's uncertain whether it will be bright enough to see during totality, but if it is, it would be a once-in-a-lifetime opportunity to capture both events in a single image!
+A big reason that I want to capture this view is because of the unique chance to capture a comet, [12P/Pons-Brooks](https://en.wikipedia.org/wiki/12P/Pons%E2%80%93Brooks) (purple crosshairs next to Jupiter in the image), which will be making its perihelion passage around the sun in the weeks following the eclipse. It's uncertain whether it will be bright enough to see during totality, but if it is, it would be a once-in-a-lifetime opportunity to capture both events in a single image!
 
-For this image I'll be using my Canon T6, which doesn't have an officially documented control API. However, with some [PTP/IP trickery](https://julianschroden.com/post/2023-05-10-pairing-and-initializing-a-ptp-ip-connection-with-a-canon-eos-camera) I should be able to control it with a second ESP32 board. Assuming I get that working (which I've already done in Python, but not C++), I can execute a similar sequence of shots to my 250mm plan above. For this camera, I'll focus more on long-exposure images during totality, and I'll try to focus on the diamond ring images over Baily's beads because of how wide the frame is.
+For this image I'll be using an 18-55mm kit lens with my Canon T6, which doesn't have an officially documented control API. However, with some [PTP/IP trickery](https://julianschroden.com/post/2023-05-10-pairing-and-initializing-a-ptp-ip-connection-with-a-canon-eos-camera) I should be able to control it with a second ESP32 board. Assuming I get that working (which I've already done in Python, but not C++), I can execute a similar sequence of shots to my 250mm plan above. For this camera, I'll focus more on long-exposure images during totality, and I'll try to prioritize the diamond ring images over Baily's beads because of how wide the frame is.
 
 ## GoPro composite
 
