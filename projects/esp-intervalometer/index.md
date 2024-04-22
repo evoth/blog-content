@@ -4,10 +4,13 @@ summary: "A ESP8266-based web app and server that uses the Canon CCAPI to trigge
 weight: 5
 resources:
   - name: thumb
-    src: esp-intervalometer-thumb.svg
+    src: esp-intervalometer-thumb.png
     params:
       alt: Photorealistic vector illustration of an ESP8266 dev board.
-thumbAsHero: true
+  - name: hero
+    src: esp-intervalometer-hero.png
+    params:
+      alt: Photorealistic vector illustration of an ESP8266 dev board.
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/esp-intervalometer

@@ -4,10 +4,13 @@ summary: "Utility to transform raw James Webb Space Telescope data into viewable
 weight: 10
 resources:
   - name: thumb
+    src: webbster-thumb.png
+    params:
+      alt: Artistic vector interpretation of the Southern Ring Nebula, exploding outwards from a central star.
+  - name: hero
     src: webbster-thumb.svg
     params:
       alt: Artistic vector interpretation of the Southern Ring Nebula, exploding outwards from a central star.
-thumbAsHero: true
 links:
     - title: GitHub Repository
       url: https://github.com/evoth/webbster

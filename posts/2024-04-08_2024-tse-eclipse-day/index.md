@@ -23,12 +23,12 @@ But I'm getting ahead of myself. As I write this, it's 9:04 pm CDT on April 8th,
 
 ## Eclipse Eve
 
-Me and my family arrived in Dallas on the morning of April 7th (yesterday). Thankfully, we were able to get a good deal on a hotel room months ago, and we were able to check in early to drop off our extra belongings. After spending the day scouting out prospective viewing locations and enjoying the city{{< sidenote "(" ")" >}}under tantalizingly clear skies, I might add!{{< /sidenote >}}, we returned to the hotel room for the night.
+Me and my family arrived in Dallas on the morning of April 7th. Thankfully, we were able to get a good deal on a hotel room months ago, and we were able to check in early to drop off our extra belongings. After spending the day scouting out prospective viewing locations and enjoying the city{{< sidenote "(" ")" >}}under tantalizingly clear skies, I might add!{{< /sidenote >}}, we returned to the hotel room for the night.
 
-{{< fig "Pictures taken from Turtle Creek Park when checking it out on April 7th" >}}
+{{< fig "Pictures taken from Turtle Creek Park when scoping it out on April 7th" >}}
   {{< grid 2 >}}
-  [![A stone sign reading "TURTLE CREEK PARK | ARLINGTON HALL" with trees and buildings in the background.](turtle-creek-scouting-1.jpg)](turtle-creek-scouting-1_full.jpg)
-  [![A grassy field enclosed by trees with a river and building in the background, under mostly clear skies.](turtle-creek-scouting-2.jpg)](turtle-creek-scouting-2_full.jpg)
+  [![A stone sign reading "TURTLE CREEK PARK | ARLINGTON HALL" with trees and buildings in the background.](turtle-creek-scouting-1.jpg "The Turtle Creek park sign with Arlington Hall in the background")](turtle-creek-scouting-1_full.jpg)
+  [![A grassy field enclosed by trees with a river and building in the background, under mostly clear skies.](turtle-creek-scouting-2.jpg "Looking southeast towards the creek across the street")](turtle-creek-scouting-2_full.jpg)
   {{< /grid >}}
 {{< /fig >}}
 
@@ -42,8 +42,8 @@ We made the modest trek from our hotel to Turtle Creek Park, where I began to se
 
 {{< fig "The setup and clouds 30 minutes before C1" >}}
   {{< grid 2 >}}
-  [![Two tripods and cameras, each with 3D printed solar filters and cables streaming into a white cardboard box. Grassy field with people in background.](setup-1.jpg)](setup-1_full.jpg)
-  [![Two cameras pointed towards a mostly cloudy sky.](setup-2.jpg)](setup-2_full.jpg)
+  [![Two tripods and cameras, each with 3D printed solar filters and cables streaming into a white cardboard box. Grassy field with people in background.](setup-1.jpg "I think all of the wires really add to the intrigue of my setup")](setup-1_full.jpg)
+  [![Two cameras pointed towards a mostly cloudy sky.](setup-2.jpg "Thankfully there were some breaks in the clouds so I could aim the cameras correctly")](setup-2_full.jpg)
   {{< /grid >}}
 {{< /fig >}}
 
@@ -53,9 +53,9 @@ Either way, it was finally about to happen. I had a great time talking to people
 
 {{< fig "Progression of the partial phase" >}}
   {{< grid 3 >}}
-  [![Orange crescent of the sun covered by the moon.](partial-1.jpg)](partial-1.jpg)
-  [![Thinner orange crescent of the sun covered by the moon.](partial-2.jpg)](partial-2.jpg)
-  [![Even thinner orange crescent of the sun covered by the moon.](partial-3.jpg)](partial-3.jpg)
+  [![Orange crescent of the sun covered by the moon.](partial-1.jpg "Pac-Man sun")](partial-1.jpg)
+  [![Thinner orange crescent of the sun covered by the moon.](partial-2.jpg "Deeper than any partial eclipse I've seen...")](partial-2.jpg)
+  [![Even thinner orange crescent of the sun covered by the moon.](partial-3.jpg "This is really happening!")](partial-3.jpg)
   {{< /grid >}}
 {{< /fig >}}
 
@@ -67,8 +67,16 @@ After 3 minutes and 47 seconds in the umbra of the moon, the sun returned with a
 
 {{< fig "Diamond ring after C3" >}}
   {{< grid 1 >}}
-  [![Stark black disk surrounded by glowing white corona with a blindingly bright flash of light on its edge.](diamond-ring-c3.jpg)](diamond-ring-c3.jpg)
+  [![Stark black disk surrounded by glowing white corona with a blindingly bright flash of light on its edge.](diamond-ring-c3.jpg "1/125 sec at f/8 and ISO 100")](diamond-ring-c3.jpg)
   {{< /grid >}}
 {{< /fig >}}
 
-After totality, the crowd thinned rapidly, but I hung around to capture the second partial phase under beautiful clear blue skies. It felt almost like waking up from a dream, except it had been more amazing than anything I could imagine in a dream. Finally, I watched the last speck of the moon flee the sun, packed up my gear, and headed back home.
+After totality, the crowd thinned rapidly, but I hung around to capture the second partial phase under beautiful clear blue skies. It felt almost like waking up from a dream, except it had been more amazing than anything I could imagine in a dream. Finally, I watched the last sliver of the moon flee the sun, packed up my gear, and headed back home.
+
+{{< fig "End of partial eclipse" >}}
+  {{< grid 3 >}}
+  [![Multiple tripods and cameras on an empty green field, surrounded by trees and buildings.](after-1.jpg "The (mostly) empty park before C4")](after-1_full.jpg)
+  [![Two tripods and cameras pointed towards the sun against clear blue skies.](after-2.jpg "Still bright as ever!")](after-2_full.jpg)
+  [![Photo of me looking up at the sun with solar viewing glasses.](after-3.jpg "The sun becomes round once again")](after-3_full.jpg)
+  {{< /grid >}}
+{{< /fig >}}
